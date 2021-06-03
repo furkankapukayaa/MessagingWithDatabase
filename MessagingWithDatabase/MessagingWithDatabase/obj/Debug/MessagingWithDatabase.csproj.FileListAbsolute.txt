@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\bin\Debug\MessagingWithDatabase.exe.config
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\bin\Debug\MessagingWithDatabase.exe
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\bin\Debug\MessagingWithDatabase.pdb
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.Form1.resources
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.Properties.Resources.resources
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.exe
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.pdb
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.Form2.resources
+C:\Users\user\source\repos\MessagingWithDatabase\MessagingWithDatabase\obj\Debug\MessagingWithDatabase.Form3.resources
