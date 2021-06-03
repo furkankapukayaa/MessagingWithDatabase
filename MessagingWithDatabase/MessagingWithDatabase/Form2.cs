@@ -85,5 +85,11 @@ namespace MessagingWithDatabase
         {
             Application.Exit();
         }
+
+        private void btnYenile_Click(object sender, EventArgs e)
+        {
+            gelenKutusu();
+            gidenKutusu();
+        }
     }
 }

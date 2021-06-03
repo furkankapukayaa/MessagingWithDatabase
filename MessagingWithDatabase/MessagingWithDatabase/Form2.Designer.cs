@@ -48,6 +48,7 @@ namespace MessagingWithDatabase
             this.label5 = new System.Windows.Forms.Label();
             this.btnCikisYap = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.btnYenile = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -235,6 +236,17 @@ namespace MessagingWithDatabase
             this.label2.TabIndex = 10;
             this.label2.Text = "Kullanıcı Bilgileri";
             // 
+            // btnYenile
+            // 
+            this.btnYenile.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnYenile.Location = new System.Drawing.Point(806, 17);
+            this.btnYenile.Name = "btnYenile";
+            this.btnYenile.Size = new System.Drawing.Size(203, 46);
+            this.btnYenile.TabIndex = 7;
+            this.btnYenile.Text = "Mesaj Kutumu Yenile";
+            this.btnYenile.UseVisualStyleBackColor = true;
+            this.btnYenile.Click += new System.EventHandler(this.btnYenile_Click);
+            // 
             // Form2
             // 
             this.AcceptButton = this.btnGonder;
@@ -242,6 +254,7 @@ namespace MessagingWithDatabase
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnCikisYap;
             this.ClientSize = new System.Drawing.Size(1024, 710);
+            this.Controls.Add(this.btnYenile);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnCikisYap);
             this.Controls.Add(this.groupBox3);
@@ -291,5 +304,6 @@ namespace MessagingWithDatabase
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button btnCikisYap;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnYenile;
     }
 }
